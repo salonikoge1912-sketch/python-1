@@ -1,3 +1,4 @@
+#question no. 1
 # creat a list
 number=[10,20,30,40,50]
 
@@ -7,7 +8,7 @@ print(60 in number)
 print(30 not in number)
 print(70 not in number)
 
-
+#question no. 2
 # given list
 fruit=["apple","banana","mango","cherry","grapes"]
 
@@ -24,7 +25,8 @@ print(fruit[1:4])
 print(fruit[:3])
 print(fruit[2:])
 
-#creat list
+#question no. 3
+#create list
 number=[1,2,3,4]
 
 #update
@@ -47,8 +49,8 @@ print(number)
 del number[1]
 print(number)
 
-
-#creat list
+#question no. 4
+#create list
 list1=[1,2,3]
 list2=[4,5,6]
 
